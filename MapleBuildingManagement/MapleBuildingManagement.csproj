@@ -109,8 +109,13 @@
     <Content Include="Scripts\jquery-1.9.1.min.js" />
     <Content Include="Web.config" />
     <Content Include="wwwroot\Images\buildingimages.jpg" />
+    <Content Include="wwwroot\Images\Com-logo.png" />
+    <Content Include="wwwroot\Images\complain logo.png" />
     <Content Include="wwwroot\Images\houstonbanner.png" />
+    <Content Include="wwwroot\Images\live-chat-icon-png-12.png" />
     <Content Include="wwwroot\Images\MBM-Logo.png" />
+    <Content Include="wwwroot\Images\MBM-service.jpg" />
+    <Content Include="wwwroot\Images\Profile-logo.png" />
     <Content Include="wwwroot\lib\bootstrap\css\bootstrap-grid.css" />
     <Content Include="wwwroot\lib\bootstrap\css\bootstrap-grid.min.css" />
     <Content Include="wwwroot\lib\bootstrap\css\bootstrap-reboot.css" />
